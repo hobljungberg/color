@@ -1,0 +1,3 @@
+[submodule "spectrums"]
+	path = spectrums
+	url = https://github.com/hobljungberg/color-spectrums
